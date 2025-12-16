@@ -176,17 +176,9 @@ Notas importantes:
 - En el **APK (standalone / dev build)**, se habilitan mejor las capacidades nativas.
 - En particular, las **notificaciones push del sistema** funcionan mejor en APK que en Expo Go.
 
-Link del build (EAS):
+APK: Link del build (EAS):
 
 - https://expo.dev/accounts/ripperzz/projects/shift/builds/7a999fe3-278f-4482-84ef-5f34755596e8
-
-Cómo adjuntar el APK en GitHub:
-
-- Opción recomendada: **GitHub Releases**
-  - Ir a *Releases* → *Draft a new release* → *Attach binaries*
-  - Subir el archivo `.apk` y publicar la release.
-- Alternativa: subir el `.apk` al repo (no recomendado)
-  - Puede superar límites de tamaño y ensuciar el historial del repositorio.
 
 ## Flujo de pedidos y calificación
 
